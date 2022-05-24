@@ -26,7 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richedperson1&show_icons=true&locale=en&layout=compact" alt="richedperson1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richedperson1&show_icons=true&locale=en" alt="richedperson1" /></p>
-![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richedperson1&" alt="richedperson1" /></p>
+
 
