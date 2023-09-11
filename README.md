@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rutvikjaiswal195@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x00DCmjr5ZjLMVxKbYycF4tFmNdQSLJL/view?usp=sharing](https://drive.google.com/file/d/1x00DCmjr5ZjLMVxKbYycF4tFmNdQSLJL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x00DCmjr5ZjLMVxKbYycF4tFmNdQSLJL/view?usp=sharing](https://drive.google.com/file/d/1cW4atOEzoh4hVd9YQF48Fs5rA-PvrGrw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
