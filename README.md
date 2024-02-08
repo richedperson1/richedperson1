@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richedperson1&label=Profile%20views&color=0e75b6&style=flat" alt="richedperson1" /> </p>
 
-- 🔭 I’m currently working on **i-Neuron assign project**
+- 🔭 I’m currently working on **LLM and Python**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **LLM**
 
-- 💬 Ask me about **Python,SQL**
+- 💬 Ask me about **Python,SQL, JavaScript, ReactJS, Flask**
 
 - 📫 How to reach me **rutvikjaiswal195@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cW4atOEzoh4hVd9YQF48Fs5rA-PvrGrw/view?usp=sharing](https://drive.google.com/file/d/1cW4atOEzoh4hVd9YQF48Fs5rA-PvrGrw/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18uOFTvN15F3OGbW_gBo3XOR6aGmwoYEI/view?usp=sharing](https://drive.google.com/file/d/18uOFTvN15F3OGbW_gBo3XOR6aGmwoYEI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
